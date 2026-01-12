@@ -2,7 +2,7 @@ Student Management System (Core Java)
 
  Overview
 
-The Student Management System is a menu‑driven Core Java console application that allows users to manage student records efficiently. The application demonstrates strong usage of OOP concepts, exception handling, and collections.
+The Student Management System is a menu‑driven Core Java console application that allows users to manage student records efficiently. The application demonstrates strong usage of OOP concepts, exception handling.
 
 This system enables users to add, view, search, update, and delete student details using a simple interactive menu.
 
@@ -13,7 +13,6 @@ This system enables users to add, view, search, update, and delete student detai
 * Java (Core Java)
 * OOP Concepts
 * Exception Handling
-* Collections (ArrayList)
 * Scanner Class
 
 ---
@@ -28,7 +27,6 @@ This system enables users to add, view, search, update, and delete student detai
 * Input validation using exception handling
 * Menu‑driven user interface
 
----
  🧱 Project Structure
  
 StudentManagementSystem
@@ -50,7 +48,7 @@ StudentManagementSystem
  3️⃣ StudentService.java
 
 * Contains all **CRUD operations**
-* Uses `ArrayList<Student>` to store data
+* Uses `Arrays to store data
 * Methods include:
 
   * addStudent()
